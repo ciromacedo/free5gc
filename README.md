@@ -37,3 +37,8 @@ Detailed changes for each release are documented in the release notes.Detailed c
 
 free5GC is now under [Apache 2.0](https://github.com/free5gc/free5gc/blob/master/LICENSE.txt) license.
 
+## Additional Information
+###### Start NFs Functions
+```
+NRF > UDR > UDM > AUSF > NSSF > AMF > PCF > UPF (sudo -E ./bin/free5gc-upfd) > SMF > SERVER-WEB > SERVER-FRONT-END ( REACT_APP_HTTP_API_URL=http://core_ip_address:5000/api PORT=3000 yarn start )
+```
