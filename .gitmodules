@@ -33,4 +33,4 @@
 	url = https://github.com/ciromacedo/smf.git
 [submodule "amf"]
 	path = NFs/amf
-	url = https://github.com/ciromacedo/amf.git
+	url = https://github.com/free5gc/amf.git
