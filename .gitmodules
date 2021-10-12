@@ -1,6 +1,3 @@
-[submodule "amf"]
-	path = NFs/amf
-	url = https://github.com/ciromacedo/amf.git
 [submodule "ausf"]
 	path = NFs/ausf
 	url = https://github.com/free5gc/ausf.git
@@ -34,4 +31,6 @@
 [submodule "smf"]
 	path = NFs/smf
 	url = https://github.com/ciromacedo/smf.git
-
+[submodule "amf"]
+	path = NFs/amf
+	url = https://github.com/ciromacedo/amf.git
